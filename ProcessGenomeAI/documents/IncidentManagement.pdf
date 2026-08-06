@@ -1,0 +1,21 @@
+Incident Management SOP
+
+
+1. User reports incident through ServiceNow.
+
+2. Service desk engineer creates incident ticket.
+
+3. Engineer categorizes priority.
+
+4. Engineer investigates issue.
+
+5. If resolved, update knowledge base.
+
+6. Close ticket after user confirmation.
+
+
+Security:
+
+Verify user identity before password reset.
+
+Document every action in ServiceNow.
